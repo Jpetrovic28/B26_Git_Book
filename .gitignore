@@ -1,6 +1,7 @@
 .idea
 *.iml
 *.xml
-out
+out // always ignore this one
 secret.txt
 fun.txt
+jel.
